@@ -21,6 +21,7 @@
 - deep_fm.py 存放deepfm模型
 - featureSlect.py 利用lgb模型对特征进行筛选
 - lgb.py lgb模型
+- weight.py 构造强特并写入数据
 
 ## **4. 运行方式**
 python main.py 
